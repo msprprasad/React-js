@@ -1,0 +1,14 @@
+
+.footer-wrap{
+    height: 100px;
+    width: 100%;
+    position: relative;
+    margin: auto;
+    background-color: blanchedalmond;
+}
+.footer-wrap p{
+    text-align: center;
+    display: flex;
+    flex-direction:column-reverse;
+    align-items: end;
+}

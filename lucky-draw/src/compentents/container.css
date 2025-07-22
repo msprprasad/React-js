@@ -1,0 +1,24 @@
+.container-wrap {
+  margin: 0;
+  box-sizing: border-box;width: 100%;
+  min-height: 500px;
+  
+}
+.list-wrapper p{
+  box-shadow: cadetblue;
+    border: 2px solid red;
+  border-radius: 25px;
+
+  padding: 5px;
+  list-style-type: disc;
+  line-height: 50px;
+}
+.list-wrapper p:hover{
+  box-shadow: cadetblue;
+  background-color: antiquewhite;
+  border-radius: 25px;
+
+  padding: 5px;
+  list-style-type: disc;
+  line-height: 50px;
+}
